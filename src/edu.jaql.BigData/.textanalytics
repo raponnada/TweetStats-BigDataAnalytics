@@ -1,0 +1,9 @@
+#Fri Dec 12 18:33:50 EST 2014
+srcTextAnalyticsPath=[P]textAnalytics/src
+general.provenance=true
+pagination.isEnabled=true
+tamTextAnalyticsPath=[P]textAnalytics/bin
+searchPath.dataPath=[W]/edu.jaql.BigData
+UseModularAQL=true
+pagination.numFilesPerPage=50
+langWare.tokenizerChoice=1
